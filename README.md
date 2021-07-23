@@ -7,3 +7,5 @@ Agrego esta linea de texto desde el editor en linea para hacer un Pull desde Git
 Este texto fue agregado para hacer uso de github desktop
 
 Este texto fue agregado desde VSC
+
+Este texto fue agregado desde VSC y GitHub
